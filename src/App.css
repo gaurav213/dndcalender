@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+.fc .fc-timegrid-col-bg .fc-highlight{
+  display: none;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -36,3 +39,4 @@
     transform: rotate(360deg);
   }
 }
+
